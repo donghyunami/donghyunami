@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=안녕하세요&desc=I'm%20donghyun!&type=rect&color=ffb300&fontSize=40&descAlignY=80)
 
-### intro
-끝없이 출렁이는 바다 한 가운데 떠있는 노인과 바다, 붓을 들며 세상을 그리다.
-
 ### Skill
 
 #### **Front_End**
